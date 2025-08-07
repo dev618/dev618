@@ -22,8 +22,6 @@
 - OCR Systems, Image Recognition, YOLO, Tesseract
 - Python Scripting, SQL, Firebase, Power BI
 
-🌱 Currently Learning:  
-**LLMs (Large Language Models)** • **MLOps with Docker & Kubernetes** • **Cloud (AWS, Azure)** • **Advanced Time Series Forecasting**
 
 ---
 
