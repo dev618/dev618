@@ -134,6 +134,10 @@
 </p>
 
 ---
+**Tags:**  
+[python](#) [flask](#) [react](#) [full-stack-development](#) [machine-learning](#) [deep-learning](#) [neural-networks](#) [tensorflow](#) [keras](#) [pytorch](#) [lstm](#) [logistic-regression](#) [classification](#) [computer-vision](#) [yolo](#) [ocr](#) [tesseract-ocr](#) [image-processing](#) [nlp](#) [text-mining](#) [sentiment-analysis](#) [time-series-analysis](#) [stock-prediction](#) [mnist](#) [digit-recognition](#) [pattern-recognition](#) [supervised-learning](#) [feature-engineering](#) [data-preprocessing](#) [eda](#) [data-visualization](#) [matplotlib](#) [seaborn](#) [plotly](#) [pandas](#) [numpy](#) [sql](#) [sqlite](#) [postgresql](#) [firebase](#) [restful-api](#) [web-scraping](#) [beautifulsoup](#) [requests](#) [figma](#) [ui-ux](#) [material-ui](#) [framer-motion](#) [animations](#) [git](#) [github](#) [cloud-deployment](#) [secure-authentication](#) [portfolio-project](#) [end-to-end-project](#)  
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev618&label=Profile%20Views&color=0e75b6&style=flat" alt="dev618" />
