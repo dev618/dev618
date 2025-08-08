@@ -73,25 +73,25 @@
 
 ### 🧠 Featured Projects
 
-#### 🐔 Poultry Health Monitoring System (Deep Learning & Data Science)
+#### 🐔 BioFlock – AI-Driven Poultry Disease Monitoring (Deep Learning & Data Science)
 > 🚜 AI-based posture analysis system for poultry health monitoring using YOLOv8 and CNN.\
 > 🧬 Detects diseases like Coccidiosis and Fowlpox from images for early diagnosis.\
 > 🔗 Integrated with Flask APIs, OpenCV, and dashboard visualizations for real-time farm monitoring.\
 > 🛠 Tech: Python, TensorFlow, PyTorch, Flask, Pandas, NumPy
 
-#### 📡 Telecom Tower Drive Test Tool
+#### 📡 TowerVision – AI-Powered Telecom Site Validation
 > 🛰 AI tool to validate telecom tower images using OCR (Tesseract) and OpenCV, built for Insta ICT Solution Pvt. Ltd.\
 > 🔍 Automates pre/post drive test data extraction with Firestore, report generation, and Power BI insights.\
 > 🤝 Enabled seamless coordination among admins, riggers, and engineers.\
 > 🛠 Tech: Python, Flask, Tesseract OCR, Pandas, Power BI, Firestore
 
-#### 💬 ScrapifyQuotes – Web Scraping & Analysis Project
+#### 💬 QuoteVerse – Mining and Visualizing
 > 🔍 Extracted and analyzed inspirational quotes from QuotesToScrape.com using Python, SQL, and Pandas.\
 > 📊 Visualized trends (authors, tags, quote lengths) using Matplotlib, Seaborn, and WordCloud.\
 > 🤝 Collaborative team effort with structured workflows, GitHub versioning, and analytical storytelling.\
 >🛠 Tech: Python, BeautifulSoup, SQL, Pandas, Jupyter, GitHub
 
-#### 🌐 Inovexa Website Project (Full Stack Development)
+#### 🌐 IInovexaWeb – Modern Business Website (Full Stack Development)
 > 🚀 Designed and built a dynamic business website using React (frontend) and Flask (backend) for Inovexa.\
 > 🎨 Features responsive design, smooth animations, career portal, and helpdesk integration.\
 > 🧩 Backend APIs and database-connected dashboard for user interaction and service display.\
