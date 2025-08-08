@@ -91,7 +91,7 @@
 > 🤝 Collaborative team effort with structured workflows, GitHub versioning, and analytical storytelling.\
 >🛠 Tech: Python, BeautifulSoup, SQL, Pandas, Jupyter, GitHub
 
-#### 🌐 IInovexaWeb – Modern Business Website (Full Stack Development)
+#### 🌐 InovexaWeb – Modern Business Website (Full Stack Development)
 > 🚀 Designed and built a dynamic business website using React (frontend) and Flask (backend) for Inovexa.\
 > 🎨 Features responsive design, smooth animations, career portal, and helpdesk integration.\
 > 🧩 Backend APIs and database-connected dashboard for user interaction and service display.\
